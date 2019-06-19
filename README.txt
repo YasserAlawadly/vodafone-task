@@ -1,3 +1,5 @@
+UserName to log in Drupal "admin"
+PassWord "123123"
 
 CONTENTS OF THIS FILE
 ---------------------
